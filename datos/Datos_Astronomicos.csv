@@ -1,0 +1,51 @@
+ID,Nombre estrella,Tipo de estrella,Distancia (años luz),Magnitud aparente,Descubridor,Fecha descubrimientos,Masa solar,Comentarios
+1,Sirius,Enana blanca,8.6,-1.46,F2-A,1862,2.063,**
+2,Betelgeuse,Supergigante roja,n/a,0.5,^John Smith,1610,17,Visible a simple vista
+3,51 Pegasi,Estrella de secuencia principal,50.45,null,??,,1.15,Primer sistema con exoplaneta
+4,Alpha Centauri,no_class,4.37,0.01,P.L,1839,-1.5,Sistema estelar triple
+5,Proxima Centauri,Enana roja,null,--,*,1915,null,Error en los datos
+6,Vega,Enana blanca,-25,0.03,,1850,null,Magnitud aparente fuera de rango
+7,null,Estrella de neutrones,1000,null,E.Dawkins,1974,1.4,Emite radiación
+8,Alpha Centauri B,Enana naranja,4.37,1.33,Huxley,,,Datos incompletos
+9,Aldebarán,Gigante naranja,65,-0.75,n/a,--,n/a,Distancia no verificada
+10,Kepler-22b,Enana amarilla,600,--,NASA,2009,1.1,Primer exoplaneta zona habitable
+11,Regulus,Estrella múltiple,77.63,-0.11,n/a,null,3.5,Estrella múltiple
+12,Antares,Supergigante roja,~600,-5.28,,??,null,Posible error en magnitud
+13,Deneb,Supergigante blanca,"2,600",1.25,Anónimo,n/a,null,Estrella variable
+14,Fomalhaut,Enana blanca,null,1.16,Ptolemeo,--,1.92,
+15,Zeta Reticuli,Enana amarilla,39,-1.15,Incógnito,??,null,Sin datos confiables
+16,null,Supergigante azul,7500,0.2,Desconocido,1782,-4.8,Registro incompleto
+17,Dubhe,Gigante naranja,124,null,,n/a,4.25,Sin descubridor
+18,Alnitak,Supergigante azul,817,-0.19,,**,null,Parte del cinturón de Orión
+19,Spica,Estrella binaria,n/a,-1.04,,**,10.25,Magnitud corregida
+20,Arcturus,Gigante roja,36.7,0.18,,n/a,null,Estrella brillante
+21,Epsilon Eridani,Enana naranja,n/a,3.73,,2000,null,Sistema exoplanetario
+22,Capella,Estrella múltiple,42.9,null,n/a,--,null,Sistema cuádruple
+23,Pollux,Gigante naranja,33.78,1.14,Charles,null,1.91,Planeta extrasolar confirmado
+24,Procyon,Enana blanca,11.46,0.34,**,1840,null,
+25,Altair,Enana blanca,16.73,0.77,,**,1.79,Parte del triángulo de verano
+26,Vega2,Enana amarilla,null,0.03,NASA,2021,0.8,Error en la fecha
+27,Rigel,Supergigante azul,860,-0.03,Antiguo,??,17.4,Parte de Orión
+28,Canopus,Supergigante blanca,310,-0.72,Astrónomo,3000 a.C.,8.74,Posiblemente visible en Egipto
+29,Hadar,Estrella binaria,390,n/a,,**,6.1,
+30,Mira,Estrella variable,n/a,3.05,,**,n/a,Sistema binario
+31,Algol,Estrella binaria,92.96,2.12,,n/a,null,Estrella del demonio
+32,Castor,Estrella múltiple,51,1.58,n/a,--,null,Sistema estelar sextuple
+33,Polaris,Estrella binaria,323.62,-3.64,,**,4.5,Estrella polar del hemisferio norte
+34,Schedar,Gigante naranja,228,2.24,,n/a,null,
+35,Achernar,Enana azul,139,0.46,,n/a,null,Estrella aplanada por rotación
+36,Bellatrix,Estrella múltiple,250,1.64,**,2003,8.6,
+37,Gacrux,Gigante roja,n/a,1.59,,n/a,3,Parte de la Cruz del Sur
+38,Gomeisa,Enana azul,170,null,**,n/a,null,Estrella variable
+39,Wezen,Supergigante amarilla,1800,1.83,**,n/a,17,
+40,Enif,Gigante amarilla,n/a,2.39,,**,null,
+41,Alhena,Gigante blanca,109,1.93,n/a,n/a,null,
+42,Shaula,Estrella múltiple,570,1.62,n/a,**,15,Parte de la cola de Escorpio
+43,Dubhe2,Enana blanca,125.5,2.08,,**,null,
+44,Nunki,Enana azul,220,2.05,,**,null,Parte de Sagitario
+45,Almach,Estrella múltiple,355,2.1,**,1779,2.1,Sistema binario visual
+46,Thuban,Gigante blanca,305,3.65,n/a,n/a,null,Estrella polar hace 4000 años
+47,Alpheratz,Estrella múltiple,97,2.07,n/a,1778,3.6,Parte de Andrómeda
+48,Rasalhague,Gigante blanca,49,2.07,n/a,**,null,Parte de Ofiuco
+49,Zubeneschamali,Enana azul,185,2.61,n/a,**,3.5,
+50,Algieba,Gigante amarilla,130,2.28,n/a,n/a,null,Parte de Leo
