@@ -1,4 +1,4 @@
-"ID,Nombre Estrella,Tipo de Estrella,Distancia,Magnitud Aparente,Descubridor,Fecha Descubrimiento,Masa Solar,Comentarios"
+"ID,Nombre Estrella,Tipo de Estrella,Distancia (a¤os luz),Magnitud Aparente,Descubridor,Fecha Descubrimiento,Masa Solar (M?),Comentarios"
 "001,Sirius,Enana blanca,8.6,-1.46,F2-A,1862,2.063,**"
 "002,Betelgeuse,Supergigante roja,n/a,0.50,^John Smith,1610,17,Visible a simple vista"
 "003,51 Pegasi,Estrella de secuencia principal,50.45,null,??,,1.15,Primer sistema con exoplaneta"
